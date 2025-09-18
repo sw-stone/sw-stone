@@ -9,7 +9,7 @@
 
 📮herculesles128@gmail.com(em虽然主包不一定经常看邮箱）
 
-(https://github-readme-stats.vercel.app/api?username=sw-stone)](https://github.com/anuraghazra/github-readme-stats)
+[![Lorin-github](https://github-readme-stats.vercel.app/api?username=sw-stone)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Lorin-github](https://github-profile-trophy.vercel.app/?username=sw-stone)](https://github.com/ryo-ma/github-profile-trophy)
 
