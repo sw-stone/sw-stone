@@ -15,7 +15,8 @@
 
 [![Lorin-github](https://stats.justsong.cn/api/github?username=sw-stone)](https://github.com/sw-stone/stats-cards) [![Lorin-github](https://stats.justsong.cn/api/bilibili/?id=516019246)](https://github.com/sw-stone/stats-cards)
 
-
+力扣：elegant-ardinghellizin
+kaggle：luvfufu
 <!--
 **sw-stone/sw-stone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
