@@ -13,7 +13,7 @@
 
 [![Lorin-github](https://github-profile-trophy.vercel.app/?username=sw-stone)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Lorin-github]([https://stats.justsong.cn/api/github?username=songquanpeng])](https://github.com/sw-stone/stats-cards)
+[![Lorin-github](https://stats.justsong.cn/api/github?username=songquanpeng)](https://github.com/sw-stone/stats-cards)
 
 
 <!--
