@@ -13,9 +13,7 @@
 
 [![Lorin-github](https://github-profile-trophy.vercel.app/?username=sw-stone)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Lorin-github](https://stats.justsong.cn/api/github?username=sw-stone)](https://github.com/sw-stone/stats-cards)
-
-[![Lorin-github](https://stats.justsong.cn/api/bilibili/?id=516019246)](https://github.com/sw-stone/stats-cards)
+[![Lorin-github](https://stats.justsong.cn/api/github?username=sw-stone)](https://github.com/sw-stone/stats-cards) [![Lorin-github](https://stats.justsong.cn/api/bilibili/?id=516019246)](https://github.com/sw-stone/stats-cards)
 
 
 <!--
