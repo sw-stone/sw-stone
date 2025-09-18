@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div align="center"> <img src="![sw-stone's Stats](https://github-readme-stats.vercel.app/api?username=sw-stone&theme=default&show_icons=true&hide_border=true&count_private=true)"> </div>
+[![Lorin-github](https://github-readme-stats.vercel.app/api?username=sw-stone)](https://github.com/anuraghazra/github-readme-stats)
 
 这里是一个对ctf、flipperzero、agent开发、模型微调、嵌入式……都很感兴趣但是啥都不会的高中牲的github
 
