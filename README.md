@@ -9,7 +9,7 @@
 
 📮herculesles128@gmail.com(em虽然主包不一定经常看邮箱）
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sw-stone&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+[![Lorin-github](https://github-readme-stats.vercel.app/api?username=sw-stone)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Lorin-github](https://github-profile-trophy.vercel.app/?username=sw-stone)](https://github.com/ryo-ma/github-profile-trophy)
 
