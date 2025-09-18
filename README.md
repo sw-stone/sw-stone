@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="![sw-stone's Stats](https://github-readme-stats.vercel.app/api?username=sw-stone&theme=default&show_icons=true&hide_border=true&count_private=true)"> </div>
 
 这里是一个对ctf、flipperzero、agent开发、模型微调、嵌入式……都很感兴趣但是啥都不会的高中牲的github
 
