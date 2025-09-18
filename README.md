@@ -1,7 +1,7 @@
 ## Smol Course 
 https://huggingface.co/learn/smol-course/
 
-#微调语言模型课程
+微调语言模型课程
 
 这门课程你能期待什么？
 
@@ -29,6 +29,7 @@ https://huggingface.co/learn/smol-course/
 使用 PyTorch 或类似深度学习框架的经验
 
 理解 transformer 架构基础
+
 
 
 1	指令微调	有监督微调、聊天模板、指令遵循	✅
