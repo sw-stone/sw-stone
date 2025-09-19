@@ -31,6 +31,14 @@ https://huggingface.co/learn/ml-for-3d-course/
 
 HF ML Games 共学
 https://huggingface.co/learn/ml-games-course/
+
+@misc{huggingfacecourse,
+  author = {Hugging Face},
+  title = {The Hugging Face Course, 2022},
+  howpublished = "\url{https://huggingface.co/course}",
+  year = {2022},
+  note = "[Online; accessed <today>]"
+}
 <!--
 **sw-stone/sw-stone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
