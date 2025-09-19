@@ -3,3 +3,10 @@ https://huggingface.co/learn/llm-course/zh-CN/chapter1/1
 
 This course will teach you about large language models (LLMs) and natural language processing (NLP) using libraries from the Hugging Face ecosystem — 🤗 Transformers, 🤗 Datasets, 🤗 Tokenizers, and 🤗 Accelerate — as well as the Hugging Face Hub.
 
+#Chapter 2ed
+
+1️⃣如何使用 pipeline() 函数解决文本生成和分类等 NLP 任务
+
+2️⃣关于 Transformer 架构
+
+3️⃣如何区分编码器、解码器和编码器-解码器架构及其应用场景
