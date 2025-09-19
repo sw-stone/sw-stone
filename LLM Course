@@ -1,13 +1,4 @@
 ##LLM Course
 https://huggingface.co/learn/llm-course/zh-CN/chapter1/1
 
-
 This course will teach you about large language models (LLMs) and natural language processing (NLP) using libraries from the Hugging Face ecosystem — 🤗 Transformers, 🤗 Datasets, 🤗 Tokenizers, and 🤗 Accelerate — as well as the Hugging Face Hub.
-
-In this course,we will learn
-
-1️⃣"what's transformer models?"
-
-2️⃣"how to use tranformers?"
-
-3️⃣"
